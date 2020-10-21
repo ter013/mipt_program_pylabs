@@ -1,0 +1,5 @@
+1:Sveta:61:
+2:Vasya:30:
+3:Petya:19:
+4:Slava:12:
+5:Volodya:9:
